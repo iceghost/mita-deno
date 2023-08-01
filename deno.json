@@ -1,0 +1,9 @@
+{
+  "imports": {
+    "@std/": "https://deno.land/std@0.196.0/"
+  },
+  "fmt": {
+    "useTabs": true,
+    "lineWidth":  999,
+  }
+}
